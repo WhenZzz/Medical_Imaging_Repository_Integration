@@ -35,3 +35,32 @@ Search keyword: 2D/3D registration, 2D3D registration, 3D2D registration, 3D/2D 
 - [cdreg](https://github.com/m1nhengChen/cdreg)
 
 ## Karyotype Analysis
+
+### chromosome visulization
+- [ideogram](https://github.com/eweitz/ideogram)
+### chromosome segmentation/classification
+- [Image Segmentation for Overlapping Chromosomes](https://github.com/LilyHu/image_segmentation_chromosomes)
+- [OverlappingChromosomeInstanceSegmentation](https://github.com/CloudDataLab/OverlappingChromosomeInstanceSegmentation)
+- [SegNet---Chromosome](https://github.com/ArkaJU/SegNet---Chromosome)
+- [Chromosome Semantic Segmentation](https://github.com/emrecanaltinsoy/chromosome-semantic-segmentation)
+- [ChromSeg](https://github.com/HKU-BAL/ChromSeg)
+- [BP metric](https://github.com/rz6/bp-metric)
+- [Overlapped chromosome segmentation](https://github.com/sialorama/Overlapped-chromosome-segmentation-and-separation)
+- [Chromosome_Segmentation_ManuelGoncalves](https://github.com/manuelfslg/Chromosome_Segmentation_ManuelGoncalves)
+- [Segmentador](https://github.com/sfenoglio/Segmentador)
+- [RC-Mask: Rotated-Count-MaskRCNN For Chromosome Segmentation](https://github.com/heihuifei/RC-Mask)
+- [chromotools](https://github.com/RodrigoSantosRodrigues/chromotools)
+- [ChorosomeSeg](https://github.com/PingjunChen/ChromosomeSeg)
+- [Chromosome-Segmentation](https://github.com/sara-kassani/Chromosome-Segmentation)
+- [Chromosome Segmentation Project](https://github.com/trew12/chromosome-segmentation)
+- [P35_Traitement_Caryotypes](https://github.com/LueMar-R/P35_Traitement_Caryotypes)
+- [Chromosome-segmentation-for-VAE](https://github.com/IZMEHD/Chromosome-segmentation-for-VAE)
+- [MACS-Net: Overlapping-chromosome-segmentation-based-on-multi-scale-U-shaped-network](https://github.com/GUUUUG/MACS-Net-Overlapping-chromosome-segmentation-based-on-multi-scale-U-shaped-network)
+
+
+### pattern extraction
+- [Banding-Pattern-Extraction](https://github.com/lukasuz/Banding-Pattern-Extraction)
+- [Adversarial Multiscale Feature Learning Framework for Overlapping Chromosome Segmentation](https://github.com/liyemei/AMFL)
+
+### Dataset
+- [chromosome-instance-segmentation-dataset](https://github.com/wangjuncongyu/chromosome-instance-segmentation-dataset)
