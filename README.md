@@ -38,7 +38,7 @@ Search keyword: 2D/3D registration, 2D3D registration, 3D2D registration, 3D/2D 
 
 ### chromosome visulization
 - [ideogram](https://github.com/eweitz/ideogram)
-### chromosome segmentation/classification
+### chromosome segmentation/classification/recognition
 - [Image Segmentation for Overlapping Chromosomes](https://github.com/LilyHu/image_segmentation_chromosomes)
 - [OverlappingChromosomeInstanceSegmentation](https://github.com/CloudDataLab/OverlappingChromosomeInstanceSegmentation)
 - [SegNet---Chromosome](https://github.com/ArkaJU/SegNet---Chromosome)
@@ -56,7 +56,7 @@ Search keyword: 2D/3D registration, 2D3D registration, 3D2D registration, 3D/2D 
 - [P35_Traitement_Caryotypes](https://github.com/LueMar-R/P35_Traitement_Caryotypes)
 - [Chromosome-segmentation-for-VAE](https://github.com/IZMEHD/Chromosome-segmentation-for-VAE)
 - [MACS-Net: Overlapping-chromosome-segmentation-based-on-multi-scale-U-shaped-network](https://github.com/GUUUUG/MACS-Net-Overlapping-chromosome-segmentation-based-on-multi-scale-U-shaped-network)
-
+- [KaryoNet](https://github.com/xiabc612/KaryoNet)
 
 ### pattern extraction
 - [Banding-Pattern-Extraction](https://github.com/lukasuz/Banding-Pattern-Extraction)
